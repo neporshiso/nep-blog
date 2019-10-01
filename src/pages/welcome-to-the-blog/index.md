@@ -1,62 +1,50 @@
 ---
 title: Welcome to the Blog!
-date: "2018-07-01"
-featuredImage: './featured.jpg'
+date: "2019-09-30"
+featuredImage: './atlanta.jpeg'
 ---
 
-Welcome to the new blog, I hope you enjoy your stay! This is an example of how you can control what excerpt shows up.
+Welcome to Nep's blog. This first post summarizes who I am and the purpose of this project.
 
 <!-- end -->
 
-## Lorem ipsum dolor sit amet, consectetur adipiscing elit
+## About Me
+ My name is Nep Orshiso and I'm from Kansas City, MO. I'm an Ethiopian-American and I've lived in the Midwest most of my life. I have a B.S. in Finance and Marketing and a minor in Economics from Truman State University.
 
-Sed urna justo, scelerisque consectetur pharetra vitae, facilisis vel diam. Maecenas auctor enim a volutpat mattis. Morbi sit amet turpis a purus ornare pellentesque sit amet et ipsum. Suspendisse imperdiet mi at felis aliquet, nec consectetur arcu dignissim. Sed vitae diam maximus, maximus diam ac, scelerisque mi.
+I moved to Atlanta, GA to join the DigitalCrafts Full-Time Immersive Program to become a software developer. Previously, I worked at a large retirement services provider as a junior manager in their call center. I aim to become a Software Developer in January 2020 in Atlanta after completing the DigitalCrafts program.
+Interests
 
-*   Morbi sit amet turpis a purus
-*   Etiam tempor ultricies mi
-    *   Maecenas auctor enim a volutpat mattis
-*   Sed urna justo, scelerisque consectetur pharetra vitae
+Technology, Personal Finance, Economics, and Politics are subjects that interest me. I’m particularly interested in the intersection of technology and finance.
 
-Nam nec augue vel nisl placerat faucibus. Donec congue **nulla quis nunc** sagittis placerat. Pellentesque non tincidunt velit, cursus porttitor tellus. Suspendisse pulvinar tortor at _augue aliquam sagittis_. Duis non pulvinar augue. Ut tristique dignissim ligula, eget tempus diam molestie non. Nulla ultrices eleifend rutrum. Mauris convallis sollicitudin dui, pulvinar suscipit velit. Maecenas viverra finibus metus vitae blandit.
+I'm also a big fan of podcasts. They make commuting and exercise bearable.
 
-### Pellentesque consectetur facilisis venenatis
+My Favorite Podcasts:
 
-Nam ullamcorper, orci nec tempor hendrerit, lorem nunc laoreet diam, vel gravida sem mi quis augue. Nunc odio velit, facilisis quis dictum non, facilisis quis felis. Vivamus [elementum dapibus nibh](https://google.com), eget aliquet nunc luctus maximus. Sed finibus risus eget ultrices maximus. Aliquam commodo consectetur diam eget tristique. Nunc quis erat quis felis fringilla tempus. Cras tempor nibh dolor, ac lacinia lacus ultrices eu.
+* NPR: Planet Money & The Indicator
+* Freakonomics
+* Animal Spirits
+* FiveThirtyEight
 
-> Quisque tempor nulla turpis, ut placerat arcu lobortis nec. Aenean sed vehicula nisi. Nullam vitae placerat enim. Etiam hendrerit enim vel tempor fermentum. Morbi rutrum euismod ipsum a luctus.
+I like watching football and soccer. Being from Missouri, I'm a fan of the Kansas City Chiefs. Mahomes is the real deal. I also support Arsenal in the English Premier League.
 
-Morbi et libero id metus tempor imperdiet eget non mi. Mauris pulvinar quis enim at placerat. Vestibulum vitae dapibus lectus, ut elementum est.
+## Tech Background & Choosing DigitalCrafts
 
-### Pellentesque facilisis venenatis mi, sit amet molestie nisl ornare et
+* Motavera 
+[![Motavera Pitch](http://img.youtube.com/vi/1gxzF3Z9cgg/0.jpg)](https://www.youtube.com/watch?v=1gxzF3Z9cgg "Motavera Pitch")
 
-Morbi posuere facilisis eros vel euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam malesuada dapibus dolor non cursus. Sed in turpis justo. Cras sed hendrerit nulla. Sed ornare, leo et suscipit tincidunt, justo diam sollicitudin risus, vitae vulputate nulla augue et lacus.
+I may write a post on how that company was started and how it failed. We wrote a post-mortem and I think it's kind of interesting.
 
-1.  Morbi posuere facilisis
-2.  Pellentesque habitant morbi tristique
-3.  Etiam malesuada dapibus
+* Python at Truman
+I took a Python class at Truman which helped establish a base foundation for my DigitalCrafts experience.
 
-Ut vel ligula ante. Proin quis metus magna. Nulla nec dui vulputate, semper orci in, sagittis dolor. Mauris dictum neque non fermentum consectetur. Integer vel pellentesque ex, ut tincidunt quam.
+* Choosing DigitalCrafts
+Why I decided to quit my job and pursue learning full-time. DigitalCrafts was highly ranked. Wanted to move to Atlanta, wanted to move into Tech. What's the best software development bootcamp in Atlanta?
 
-#### Sed ac orci a dolor venenatis vulputate
+## Purpose of the Blog
 
-Sed sollicitudin, turpis ac malesuada dapibus, magna dui semper orci, in congue justo felis quis ante. Phasellus consequat et dolor fringilla accumsan. Pellentesque ullamcorper porttitor dolor et imperdiet.
+* Document projects, learnings, and challenges
+* Technical Topics
+* Become a better writer and communicator
+* Play with React/Gatsby
 
-![Space](./space.jpg)
-
-Pellentesque consectetur facilisis venenatis. Nam ullamcorper, orci nec tempor hendrerit, lorem nunc laoreet diam, vel gravida sem mi quis augue. Nunc odio velit, facilisis quis dictum non, facilisis quis felis. Vivamus elementum dapibus nibh, eget aliquet nunc luctus maximus. Sed finibus risus eget ultrices maximus. Aliquam commodo consectetur diam eget tristique. Nunc quis erat quis felis fringilla tempus. Cras tempor nibh dolor, ac lacinia lacus ultrices eu.
-
-##### Nulla nec dui vulputate, semper orci in, sagittis dolor
-
-Mauris dictum neque non fermentum consectetur. Integer vel pellentesque ex, ut tincidunt quam. Sed ac orci a dolor venenatis vulputate. Sed sollicitudin, turpis ac malesuada dapibus, magna dui semper orci, in congue justo felis quis ante. Phasellus consequat et dolor fringilla accumsan. Pellentesque ullamcorper porttitor dolor et imperdiet.
-
-```javascript
-$(document).ready(function() {
-    console.log('More jQuery, wow!')
-})
-```
-
-###### ras aliquet ipsum ut enim pellentesque, id varius quam placerat
-
-Maecenas non scelerisque leo. Sed id purus fringilla, consequat magna non, faucibus neque. Cras ornare nisi a lectus ultricies convallis. Integer tristique dictum eros, et elementum ante consectetur eget. Phasellus sollicitudin est vestibulum suscipit pellentesque. Duis in eros cursus magna laoreet aliquam vel a lectus. Nulla ut nisi vitae ipsum sollicitudin vestibulum. Aenean sit amet mattis odio. Vestibulum ultrices sed ipsum nec pretium. Integer non turpis nunc. Praesent tincidunt tincidunt alique
-
-Integer mollis dolor non libero placerat, ut efficitur nisi ultricies. Etiam ac lacinia urna, eget ornare nunc. Suspendisse eget eros id turpis gravida semper. Duis ornare lorem et est pellentesque, quis rhoncus leo vestibulum. Nullam eu nulla ut elit rutrum iaculis. Cras a laoreet elit, in aliquet erat. Sed interdum varius posuere. Pellentesque eget luctus erat. Nam quis sem in ligula efficitur bibendum.
+It's free and easy to get started. I may write my next post on how I'm using React/Gatsby Template hosted on Netlify as a guide to other students who want to get started. My goal is to write one post a month minimum.
