@@ -1,7 +1,7 @@
 ---
 title: "Small Group Projects - Tips for Success"
 date: "2019-11-12"
-featuredImage: './rowers.jpg'
+featuredImage: './image.jpg'
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;When you’re in a coding bootcamp, you'll most likely find yourself working in a team at some point. You may be someone who would rather work alone but the reality is that software development in a professional setting is usually done in teams. Working with others is an important skill and I wanted to share some of the things I’ve encountered from my undergraduate days and my current involvement in the DigitalCrafts bootcamp that led to a pleasant group project experience.
