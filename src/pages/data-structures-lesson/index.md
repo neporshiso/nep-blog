@@ -85,6 +85,4 @@ So this is when it clicked for me. I learned that the underlying data structure 
 
 After it's all said and done, if I ever get asked why I used a dictionary to help with lookup values, I'll be able to give an explanation. Even with the same logic, using the optimum data structure for the problem you're trying to solve can result in better performance and time saved. This concept seems to be especially important when dealing with large amounts of data.
 
-If it wasn't for my girlfriend asking me to explain my thought process, I wouldn't have learned this topic and this post would not have been created as I had luckily implemented a fast solution but couldn't explain why it worked. Creating a solution that works but you can't explain why it does is just as bad as developing a solution that doesn't work at all, in my opinion.
-
-Thank you for reading this far.
+Creating a solution that works that you can't explain is just as bad as developing a solution that doesn't work at all.
