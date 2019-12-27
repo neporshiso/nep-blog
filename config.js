@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Nep\'s Blog', // Required
   author: 'Nep Orshiso', // Required
-  description: 'Studying Software Development at DigitalCrafts',
+  description: 'Software Engineer',
   primaryColor: '#cf1f27', // Required
   showHeaderImage: true,
   showShareButtons: true,
